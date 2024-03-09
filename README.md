@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 
-- 🔭 I’m currently working on **EDC**
+- 🔭 I’m currently working in **EDC**
 
-- 🌱 I’m currently explorng **SQL, DSA, Flutter**
+- 🌱 I’m currently explorng **SQL, DSA, Music**
 
-- 💬 Ask me about **CSS,Js,React,Js**
+- 💬 Ask me about **CSS,Js,React**
 
 - 📫 How to reach me **Khandelwaljayant1634@gmail.com**
 
-- ⚡ Fun fact **I am a crazzy guys, who's like to innovate new solutions**
+- ⚡ Fun fact **I am a crazzy guys, who likes to innovate new solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
