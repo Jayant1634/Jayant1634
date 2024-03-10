@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **CSS,Js,React**
 
-- 📫 How to reach me **Khandelwaljayant1634@gmail.com**
+- 📫 How to reach me **khandelwaljayant1634@gmail.com**
 
 - ⚡ Fun fact **I am a crazzy guys, who likes to innovate new solutions**
 
