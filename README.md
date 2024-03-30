@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in **EDC**
 
-- 🌱 I’m currently explorng **SQL, DSA, Music**
+- 🌱 I’m currently explorng **SQL, DSA, Music **
 
 - 💬 Ask me about **CSS,Js,React**
 
