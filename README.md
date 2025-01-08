@@ -32,28 +32,3 @@
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
-
-
-<p align="center"> <img src="https://raw.githubusercontent.com/jayant1634/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p> <br>
-
-<h3 align="center">GitHub Stats:</h3>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jayant1634&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="Jayant1634" /></p> <br>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jayant1634&show_icons=true&theme=radical&locale=en" alt="Jayant1634" /></p><br>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayant1634&theme=highcontrast" alt="Jayant1634" /></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jayant1634&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Jayant1634" /></a> </p>
-
-<p align="center"> <img align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Jayant1634?theme=dark&font=Nunito&ext=heatmap" alt="Jayant Khandelwal's LeetCode Stats"/> </p>  
-
-<!-- graph -->
-<!--p>&nbsp;<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=Jayant1634&theme=react-dark"  alt="Jayant1634" /></p-->
-
-<!--views-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jayant1634&label=Profile%20views&color=fe3410&style=flat" alt="Jayant1634" /> </p> <br>
-
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=1000&section=footer"/>
-</p>
