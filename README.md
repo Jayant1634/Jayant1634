@@ -1,34 +1,83 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Helloos, I am Snay AKA Jayant Khandelwal</h1>
-<h3 align="center">An enthusiastic guy </h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
+<h1 align="center">Heyyy! 👋 I’m Snay AKA Jayant Khandelwal</h1>
+<h3 align="center">🚀 A Tech Junkie | AI Enthusiast | Problem Solver | Innovator 🤯</h3>
 
-- 🔭 I’m currently working in **EDC**
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
-- 🌱 I’m currently explorng **SQL, DSA, Music **
+## 🚀 About Me
+- 🔭 Currently breaking & building things at **EDC**
+- 🌱 Exploring **SQL, DSA, and experimenting with Music 🎧**
+- 🛠️ Passionate about **AI, SaaS, and Backend Wizardry**  
+- 💬 Ask me about **CSS, JavaScript, React, and Backend Architectures**  
+- ⚡ Fun fact: **I might just automate my morning coffee next ☕🤖**  
+- 🎯 **Mission:** Build AI-powered SaaS solutions that **change lives & disrupt industries!**  
 
-- 💬 Ask me about **CSS,Js,React**
+---
 
-- 📫 How to reach me **khandelwaljayant1634@gmail.com**
+## 🛠️ Tech Stack & Superpowers  
 
-- ⚡ Fun fact **I am a crazzy guys, who likes to innovate new solutions**
+### 💻 Programming & Scripting:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jayant-khandelwal-94277725b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Jayant Khandelwal aka SNAY" height="30" width="40" /></a>
-<a href="https://www.instagram.com/the.snayy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="@the.snayy" height="30" width="40" /></a>
+### 🚀 Backend & Databases:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-ff6a00?style=for-the-badge&logo=neondb&logoColor=white)
+
+### 🎨 Frontend & UI:
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚡ DevOps & Other Cool Stuff:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+---
+
+## 📊 GitHub Stats – Because Why Not? 😏
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jayant1634&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayant1634&theme=radical" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayant1634&layout=compact&theme=radical" />
 </p>
+
+---
+
+
+## 🎯 Achievements & Flexes 💪  
+- 🚀 **Built & Scaled SaaS Solutions** from idea to production  
+- 🏆 **Cracked Backend Architecture** like a puzzle genius  
+- 🤝 **Helping devs learn and grow** in their journey  
+
+---
+
+## 💬 Connect With Me!  
+Let's talk code, AI, startups, or just geek out over Elon Musk & Jensen Huang!  
+<p align="left">
+<a href="https://www.linkedin.com/in/jayant-khandelwal-94277725b/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jayant Khandelwal" />
+</a>
+<a href="https://www.instagram.com/the.snayy/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@the.snayy" />
+</a>
+</p>
+
+---
+
+## 🤖 Random Geeky Thought:
+> *"Any sufficiently advanced technology is indistinguishable from magic."* – Arthur C. Clarke  
+
+👀 If you’ve read this far, you’re officially **CRAZZZZYYYYYYYYYY**! 😎 Drop by my GitHub, fork a repo, or just say hi! 🚀  
